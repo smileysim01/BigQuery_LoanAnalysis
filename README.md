@@ -4,7 +4,7 @@ In this project, we studied the geography of loans in WI using BigQuery and made
 
 Learning objectives:
 
-combine data from a variety of soures to compute results in BigQuery
-query live results from a Google form/sheet
-perform spatial joins
-train and evaluate models using BigQuery
+combine data from a variety of soures to compute results in BigQuery;
+query live results from a Google form/sheet;
+perform spatial joins;
+train and evaluate models using BigQuery;
